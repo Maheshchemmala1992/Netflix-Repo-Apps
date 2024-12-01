@@ -19,5 +19,5 @@
 
     - name: git checkout
       git:
-        repo: "https://github.com/CleverProgrammers/pwj-netflix-clone.git"
+        repo: "https://github.com/Maheshchemmala1992/Netflix-Application-Repo.git"
         dest: "/var/www/html"
